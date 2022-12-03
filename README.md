@@ -1,0 +1,2 @@
+## Blockchain Analytics tool
+This tool returns a list of wallet id's associated with the employees of a company and then the wallet address's ens is fetched and passed on to fetch transactions records to find the trends in the company.
